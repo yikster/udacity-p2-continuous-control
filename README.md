@@ -89,11 +89,9 @@ For the Training, I used a p2.xlarge type AWS EC2 instance (Ubuntu based Deep Le
 3. Clone following repository and install additional dependencies.
 
    ```
-   git clone https://github.com/jihys/p2_continuous-control.git
-   #Alterntively you can download original codes from udcity github. 
-   #git clone https://github.com/udacity/deep-reinforcement-learning.git`
-   cd python`
-   vi requirement.txt` 
+   git clone https://github.com/yikster/udacity-p2-continuous-control
+   cd udacity-p2-continuous-control
+    
    #"Correct requirement.txt as needed"`
    pip install .
    ```
